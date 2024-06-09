@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MySelf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">home</string>
+    <string name="gallery">gallery</string>
+    <string name="profile">profile</string>
+    <string name="music">music</string>
+    <string name="daily">daily</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Adrian Maulana Rizqy</string>
+    <string name="nim">10121078</string>
+    <string name="alamat">Bukit Permata Cimahi Blok G2-10, Cilame ,Ngamprah</string>
+    <string name="umur">21 Tahun</string>
+    <string name="hobi">Bermain Game</string>
+    <string name="cita">Game Developer di Ubisoft</string>
+    <string name="about">Aplikasi MySelf App ini dibuat oleh Adrian Maulana Rizqy dengan NIM 10121078 dari kelas Pemrograman Android 3 untuk memenuhi tugas dari matakuliah Pemrograman Android</string>
+</resources>
+    <!--27-05-2024/10121078/AdrianMaulanaRizqy/PemAndro3-->

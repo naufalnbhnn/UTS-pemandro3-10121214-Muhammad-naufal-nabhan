@@ -1,0 +1,29 @@
+<!-- res/layout/fragment_gallery.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mainbg">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:background="@color/coklat"
+        android:fontFamily="@font/sundaymilk"
+        android:text="Gallery"
+        android:textSize="40dp"
+        android:paddingVertical="10dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="551dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/coklat" />
+</LinearLayout>
+    <!--10121214/MuhammadNaufalNabhan/PemAndro3-->

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Myselfapps10121078" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorPrimary">@color/coklat</item>
+        <item name="colorPrimaryVariant">@color/coklat</item>
+        <item name="android:statusBarColor">@color/statusbar</item>
+
+    </style>
+
+    <style name="Theme.Myselfapps10121078" parent="Base.Theme.Myselfapps10121078" />
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/active</item>
+    </style>
+</resources>
